@@ -1,10 +1,16 @@
 # Wake The Fuck Up
 
-## Stora datorn
+Instruktioner step-by-step.
 
-Gå till foldern mixansfaith.duckdns.org > PortableGit
+## 1. Stora datorn -- Lägga in filer för nedladning
 
-Klicka på git-cmd
+Gå till foldern `mixansfaith.duckdns.org > PortableGit > wake-the-fuck-up > html > downloads`
+
+Lägg in filer du vill ska synas på webbsidan. Kom ihåg, det finns bara 16GB på SD-kortet! (Tips, lägg in torrents)
+
+## 2. Stora datorn -- Tanka upp till GitHub
+
+Gå till foldern `mixansfaith.duckdns.org > PortableGit` och klicka på `git-cmd`
 
 Skriv sedan
 
@@ -18,19 +24,25 @@ När du är beredd att skicka upp dina ändringar, skriv
 
 Och sedan kan du stänga av git-cmd
 
-## Raspberryn
+	exit
 
-Öppna PowerShell och skriv
+## Tanka från GitHb till Raspberryn
+
+Öppna PowerShell i stora ddatorn och skriv
 
 	ssh 192.168.0.243 -l mikael
 
 När du har kommit in skriver du
 
 	sudo wake-the-fuck-up
+
+Vänta tills du ser texten "Done!" skriv sedan
+
 	exit
 	exit
 
 ## Surfa
 
-Prova surfa till http://mixansfaith.duckdns.org
+Prova surfa till `http://mixansfaith.duckdns.org`
+
 
