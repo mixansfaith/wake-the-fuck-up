@@ -28,7 +28,7 @@ Och sedan kan du stänga av git-cmd
 
 ## 3. Tanka från GitHub till Raspberry Pin
 
-Öppna PowerShell i stora ddatorn och skriv
+Öppna PowerShell i stora datorn och skriv
 
 	ssh 192.168.0.243 -l mikael
 
