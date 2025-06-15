@@ -26,7 +26,7 @@ Och sedan kan du stänga av git-cmd
 
 	exit
 
-## 3. Tanka från GitHb till Raspberryn
+## 3. Tanka från GitHub till Raspberry Pin
 
 Öppna PowerShell i stora ddatorn och skriv
 
@@ -40,9 +40,10 @@ Vänta tills du ser texten "Done!" skriv sedan
 
 	exit
 	exit
+	exit
 
 ## 4. Surfa
 
-Prova surfa till `http://mixansfaith.duckdns.org`
+Prova surfa till  [http://mixansfaith.duckdns.org](http://mixansfaith.duckdns.org)
 
 
