@@ -25,7 +25,7 @@
         <!-- Centered Image -->
         <!-- Placeholder image. You can replace this URL with your actual image. -->
         <!-- Make sure the image is accessible and ideally, use a more descriptive alt text. -->
-        <img src="https://placehold.co/400x250/3182CE/FFFFFF?text=Your+Image+Here"
+        <img src="wakeup.jpg"
              alt="Placeholder image for Mixansfaith"
              class="rounded-lg mb-8 mx-auto w-full h-auto object-cover">
              <!-- object-cover ensures the image covers the area while maintaining aspect ratio -->
